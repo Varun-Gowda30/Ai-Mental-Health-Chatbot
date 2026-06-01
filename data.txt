@@ -1,0 +1,215 @@
+User : What is your name?
+User : What is your name?
+User : What is your name?
+User : What is your name?
+User : hai how are you?
+User : What is your name?
+User : What is your name?
+User : What is your name?
+User : What is your name?
+User : What is your name?
+Bot : Im a Medical Assistant Chatbot
+User : What is your name?
+Bot : My name is Dr Chatbot
+User : what is your name
+Bot : My name is Dr Chatbot
+User : what book i need to read
+Bot : [0.18887351 0.10018452 0.46265864 0.00090262 0.00347369 0.01078757
+ 0.02663774 0.03933221 0.0618473  0.10530224]
+User : Cannot concentrate
+Bot : Keep yourself Dehydrated
+User : Feel insecure around people.
+Bot : Know your Strengths and remember that you are Unique in Yourself. When some approaches, remember that you need to keep things simple. Often Shy people Overthink a lot.
+User : hi
+Bot : Hii
+User : hi
+Bot : Hello!!!
+User : hi
+Bot : Hello!!!
+User : hi
+Bot : How are You?
+User : I am lonely
+Bot : You need to Socialise more because only then you will be able to Mix up with People.Get together with like minded People who understand you Better.
+User : depressed
+Bot : Look for potential short breaks during work
+User : stress
+Bot : Look for potential short breaks during work
+User : alone
+Bot : Keep yourself Dehydrated
+User : ok
+Bot : Keep yourself Dehydrated
+User : bye
+Bot : Massage your Scalp and get Sufficient sleep
+User : bbye
+Bot : Keep yourself Dehydrated
+User : name
+Bot : Sorry, I didn't get you. Please try again.
+User : "What is your name?
+Bot : My name is Dr Chatbot
+User : How you could help me?
+Bot : I provide Medical Assistance to Mental Health Issues
+User : I feel insecure at Weddings
+Bot : Talk to your Closed ones about your Problem. Be it Family,Friends or even mentors who may guide you to the Problem.
+User : "Have a nice day
+Bot : See you soon
+User : what is your name
+Bot : My name is Dr Chatbot
+User : hiii
+Bot : Look for potential short breaks during work
+User : Hi
+Bot : I'm doing Great
+User : Hi
+Bot : Hii
+User : Hi
+Bot : Hello!!!
+User : I am feeling lonely
+Bot : Talk to your Closed ones about your Problem. Be it Family,Friends or even mentors who may guide you to the Problem.
+User : How you could help me?
+Bot : I can help you figure out the cause of your Mental illness & provide Solutions
+User : im feeling depressed 
+Bot : Sorry, I didn't get you. Please try again.
+User : sleeping issues
+Bot : Sorry, I didn't get you. Please try again.
+User : anxiety attack
+Bot : Keep yourself Dehydrated
+User : depressed 
+Bot : Look for potential short breaks during work
+User : adddiction_remedy
+Bot : Massage your Scalp and get Sufficient sleep
+User : How to Quit Alcohol
+Bot : Start with cutting your Addiction consumption with less amounts, then increasing further reductions. The key here is to plan a Long term Strategy.Also get some help from a Professional.
+User : I am suffering from Alcohol consumption
+Bot : Human Brain releases High levels of Dopamine when subjected to Substance Abuse. The high levels of Dopamine is what keeps your Mood regulated despite Harmful Addictions.
+User : I am suffering from Alcohol consumption
+Bot : Addiction is a result of high levels of Dopamine chemical release from Brain. Dopamine gives haapy feel after any task hence your Brain loves Addictions
+User : hi
+Bot : Hello!!!
+User : im feeling lonely
+Bot : My name is Dr Chatbot
+User : im depressed
+Bot : Sorry, I didn't get you. Please try again.
+User : How you could help me?
+Bot : I provide Medical Assistance to Mental Health Issues
+User : hi
+Bot : I'm doing Great
+User : good
+Bot : Hello Visitor
+User : hi
+Bot : Hello, wonderful to see you!
+User : what is your name
+Bot : I'm Mindful AI, your friendly mental health assistant!
+User : i am lonely
+Bot : Join social groups or clubs with similar interests.
+User : I feel depressed
+Bot : Consider seeking help from a mental health professional.
+User : Tips for managing depression
+Bot : Practice self-care and be kind to yourself.
+User : What should I do when I feel depressed?
+Bot : Practice self-care and be kind to yourself.
+User : I feel anxious
+Bot : Try mindfulness or meditation to stay grounded.
+User : Tips for dealing with stres
+Bot : Practice self-care and be kind to yourself.
+User : I want to be more positive
+Bot : Focus on the good things in your life, no matter how small.
+User : I'm struggling with my partner
+Bot : Spend quality time together and show appreciation.
+User : I am low
+Bot : Reach out to a friend or family member for support.
+User : How deal depression
+Bot : Reach out to a friend or family member for support.
+User : I smoke a lot
+Bot : The brain releases high levels of dopamine during substance abuse, regulating your mood despite the harmful effects.
+User : i am anxious
+Bot : Sorry, I didn't get you. Please try again.
+User : i feel anxious
+Bot : Try mindfulness or meditation to stay grounded.
+User : I feel disconnected
+Bot : Take a walk in a nearby park or forest.
+User : Benefits of spiritual practices
+Bot : Engaging in spiritual practices can reduce stress and promote resilience.
+User : Help me stay motivated
+Bot : Take it one step at a time and celebrate your progress along the way.
+User : Why is self-care important?
+Bot : Self-care helps prevent burnout and improves resilience.
+User : How does nutrition affect mental health?
+Bot : Eating nutrient-rich foods can improve mood and energy levels.
+User : I cannot concentrate
+Bot : Stay hydrated.
+User : I cannot concentrate
+Bot : Take short breaks during work.
+User : I get disturbed while sleeping
+Bot : Avoid afternoon naps and stick to a consistent sleep schedule.
+User : HOw are you
+Bot : How are you?
+User : how are you
+Bot : Hello!!!
+User : how are you
+Bot : Hello!!!
+User : how are you
+Bot : Hello, wonderful to see you!
+User : how are you
+Bot : How are you?
+User : how are you
+Bot : Hello!!!
+User : how are you
+Bot : How are you?
+User : how are you
+Bot : How are you?
+User : how are you
+Bot : Hi there!
+User : how are you
+Bot : I'm doing great, thanks for asking!
+User : tell  about mental health
+Bot : Sorry, I didn't get you. Please try again.
+User : i feel lonely
+Bot : Volunteer for activities or causes you care about.
+User : depressed
+Bot : Practice deep breathing exercises.
+User : i am feeling lonely
+Bot : Consider talking to a therapist if loneliness persists.
+User : hi
+Bot : Hello, wonderful to see you!
+User : i had a stressful day
+Bot : Sorry, I didn't get you. Please try again.
+User : I am lonely
+Bot : Join social groups or clubs with similar interests.
+User : I am depressed
+Bot : Sorry, I didn't get you. Please try again.
+User : i feel depressed
+Bot : Sorry, I didn't get you. Please try again.
+User : i feel anxious
+Bot : Try mindfulness or meditation to stay grounded.
+User : i feel lonely
+Bot : Reach out to friends or family members.
+User : Hi
+Bot : Hi there!
+User : I feel anxious
+Bot : Try mindfulness or meditation to stay grounded.
+User : hii
+User : hi
+Bot : Sorry, I didn't get you. Please try again.
+User : hi
+User : i feel anxious
+User : i feel anxious
+User : hi
+Bot : I'm doing great, thanks for asking!
+User : i feel anxious
+Bot : Talk to someone you trust about your feelings.
+User : motivate me
+Bot : Remember why you started and keep pushing forward. You're doing amazing!
+User : hi good morning
+Bot : Hello, wonderful to see you!
+User : i am feeling depression
+Bot : Practice self-care and be kind to yourself.
+User : how to reduce stress
+Bot : Engage in regular physical activity.
+User : hi good afternoon
+Bot : Hi! How can I assist you today?
+User : hi good afternoon
+Bot : Hello!!!
+User : hi good afternoon
+Bot : I'm doing great, thanks for asking!
+Bot : Hello, wonderful to see you!
+Bot : Surround yourself with positive and supportive people.
+Bot : Hi there!

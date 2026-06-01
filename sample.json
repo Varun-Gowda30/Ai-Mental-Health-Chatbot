@@ -1,0 +1,295 @@
+{
+    "intents": [
+        {
+            "tag": "greetings",
+            "patterns": ["Hi", "Hello", "What's up", "How are you?", "Hi Mindful AI", "Good Morning", "Good evening", "Hello Mindful AI"],
+            "responses": ["Hello!!!", "Hi there!", "How are you?", "I'm doing great, thanks for asking!", "Hello, wonderful to see you!", "Hi! How can I assist you today?"],
+            "context_set": [""]
+        },
+        {
+            "tag": "goodbye",
+            "patterns": ["See you again", "See you later", "Goodbye", "I'm leaving", "Have a good day", "Talk to you later", "Catch you later"],
+            "responses": ["Goodbye! Take care!", "See you soon!", "See you later!", "Have a nice day!", "Talk to you later!"],
+            "context_set": [""]
+        },
+        {
+            "tag": "name",
+            "patterns": ["What is your name?", "What's your name?"],
+            "responses": ["I'm Mindful AI, your friendly mental health assistant!", "My name is Mindful AI. How can I help you today?"],
+            "context_set": [""]
+        },
+        {
+            "tag": "noanswer",
+            "patterns": [],
+            "responses": ["Sorry, I can't understand you.", "Could you please provide more information?", "I'm not sure I understand. Could you clarify?"],
+            "context_set": [""]
+        },
+        {
+            "tag": "options",
+            "patterns": ["How can you help me?", "What can you do?", "What help do you provide?", "How can you be helpful?", "What support is offered?"],
+            "responses": ["I provide assistance with mental health issues, offer tips for better well-being, and help you find the cause and solutions for your mental health concerns.", "I can help you manage your mental health by offering advice and support for various issues."],
+            "context_set": [""]
+        },
+        {
+            "tag": "sleep",
+            "patterns": ["I get disturbed while sleeping", "Unable to sleep early", "Feel sleepless during the day", "Wake up suddenly in the middle of the night", "Negative thoughts while sleeping"],
+            "responses": ["Try reducing your screen time before bed.", "Aim for 7-9 hours of sleep each night.", "Exercise or meditate for 15-30 minutes to calm your mind.", "Avoid afternoon naps and stick to a consistent sleep schedule."],
+            "context_set": [""]
+        },
+        {
+            "tag": "headache_issues",
+            "patterns": ["I cannot concentrate", "I cannot focus", "I have a headache", "Feeling anxious", "My head hurts"],
+            "responses": ["Take short breaks during work.", "Stay hydrated.", "Massage your scalp and ensure you get enough sleep."],
+            "context_set": [""]
+        },
+        {
+            "tag": "social_anxiety",
+            "patterns": ["I feel insecure at social events.", "I feel insecure around people.", "People don't talk to me.", "I feel lonely."],
+            "responses": ["Try to socialize more to get comfortable with people. Connect with like-minded individuals who understand you better.", "Talk to your close ones about your feelings. Family, friends, or mentors can provide support.", "Recognize your strengths and remember that you are unique. When someone approaches, keep things simple and don't overthink."],
+            "context_set": [""]
+        },
+        {
+            "tag": "addiction_remedy",
+            "patterns": ["How can I cure addiction?", "Is there a way to cure alcohol abuse?", "How to quit smoking?", "How to quit alcohol?", "Can you help me with addictions?", "Treatment for curing addictions?", "Coping with addictions"],
+            "responses": ["Although a professional psychiatrist is needed, you can try dopamine fasts, which involve quitting all pleasing activities for 1-2 days to reduce dopamine release. Build your willpower to overcome withdrawals.", "Seek new, healthy habits to replace your addictions. It's important to consult a professional doctor.", "Start by gradually reducing your addiction and plan a long-term strategy. Professional help can be very beneficial."],
+            "context_set": [""]
+        },
+        {
+            "tag": "addiction_causes",
+            "patterns": ["I am suffering from alcohol consumption", "I smoke a lot", "I drink alcohol", "I smoke cigarettes", "I am suffering from drug abuse", "What causes addiction?", "What causes addiction according to you?"],
+            "responses": ["Addiction is a result of high levels of dopamine release in the brain. Dopamine provides a feeling of happiness, which is why your brain craves addictions.", "The brain releases high levels of dopamine during substance abuse, regulating your mood despite the harmful effects."],
+            "context_set": [""]
+        },
+        {
+            "tag": "anxiety",
+            "patterns": ["I feel anxious", "I'm experiencing anxiety", "How can I deal with anxiety?", "Tips for managing anxiety", "What should I do when I feel anxious?"],
+            "responses": ["Practice deep breathing exercises to calm your mind.", "Engage in physical activities like yoga or walking.", "Talk to someone you trust about your feelings.", "Try mindfulness or meditation to stay grounded."],
+            "context_set": [""]
+        },
+        {
+            "tag": "depression",
+            "patterns": ["I feel depressed", "I'm feeling low", "How can I deal with depression?", "Tips for managing depression", "What should I do when I feel depressed?"],
+            "responses": ["Reach out to a friend or family member for support.", "Engage in activities you enjoy and that make you feel good.", "Consider seeking help from a mental health professional.", "Practice self-care and be kind to yourself."],
+            "context_set": [""]
+        },
+        {
+            "tag": "stress",
+            "patterns": ["I feel stressed", "I'm stressed out", "How can I manage stress?", "Tips for dealing with stress", "What should I do when I'm stressed?"],
+            "responses": ["Take short breaks and relax throughout the day.", "Practice deep breathing or meditation.", "Exercise regularly to reduce stress levels.", "Talk to someone about what's stressing you out."],
+            "context_set": [""]
+        },
+        {
+            "tag": "self_esteem",
+            "patterns": ["I have low self-esteem", "I feel worthless", "How can I improve my self-esteem?", "Tips for boosting self-esteem", "What should I do if I feel worthless?"],
+            "responses": ["Recognize and celebrate your achievements, no matter how small.", "Surround yourself with positive and supportive people.", "Practice self-care and self-compassion.", "Set realistic goals and work towards achieving them."],
+            "context_set": [""]
+        },
+        {
+            "tag": "relationships",
+            "patterns": ["I have relationship problems", "I'm struggling with my partner", "How can I improve my relationship?", "Tips for a healthy relationship", "What should I do if I'm having relationship issues?"],
+            "responses": ["Communicate openly and honestly with your partner.", "Spend quality time together and show appreciation.", "Seek the help of a relationship counselor if needed.", "Work on building trust and understanding."],
+            "context_set": [""]
+        },
+        {
+            "tag": "loneliness",
+            "patterns": ["I feel lonely", "I'm lonely", "How can I deal with loneliness?", "Tips for overcoming loneliness", "What should I do if I feel lonely?"],
+            "responses": ["Reach out to friends or family members.", "Join social groups or clubs with similar interests.", "Volunteer for activities or causes you care about.", "Consider talking to a therapist if loneliness persists."],
+            "context_set": [""]
+        },
+        {
+            "tag": "motivation",
+            "patterns": ["I need motivation", "Help me stay motivated", "I'm feeling unmotivated", "Can you motivate me?", "Tips for staying motivated"],
+            "responses": ["Believe in yourself and all that you are. Know that there is something inside you that is greater than any obstacle.", "Stay positive and focus on your goals. You've got this!", "Remember why you started and keep pushing forward. You're doing amazing!", "Take it one step at a time and celebrate your progress along the way."],
+            "context_set": [""]
+        },
+        {
+            "tag": "cheer_up",
+            "patterns": ["I'm feeling down", "I need cheering up", "Can you cheer me up?", "Feeling sad", "I need some positivity"],
+            "responses": ["You're stronger than you think, and you've got this!", "Remember, tough times never last, but tough people do. You're amazing!", "Keep your head up and your heart strong. Better days are ahead.", "You are valued, and you bring so much joy to those around you. Stay positive!"],
+            "context_set": [""]
+        },
+        {
+            "tag": "gratitude",
+            "patterns": ["I want to practice gratitude", "How can I be more grateful?", "Tips for practicing gratitude", "I want to be more thankful"],
+            "responses": ["Start by writing down three things you're grateful for each day.", "Express your appreciation to someone who has made a difference in your life.", "Take a moment to appreciate the small joys in life.", "Reflect on positive experiences and the lessons learned from challenges."],
+            "context_set": [""]
+        },
+
+
+        {
+            "tag": "positive_thinking",
+            "patterns": ["How can I think positively?", "Tips for positive thinking", "I want to be more positive", "Help me think positively"],
+            "responses": ["Focus on the good things in your life, no matter how small.", "Challenge negative thoughts and replace them with positive ones.", "Surround yourself with positive and supportive people.", "Practice affirmations and visualize your success."],
+            "context_set": [""]
+        },
+
+        {
+            "tag": "stress",
+            "patterns": ["I feel stressed", "I'm stressed out", "How can I manage stress?", "Tips for dealing with stress", "What should I do when I'm stressed?"],
+            "responses": ["Take short breaks and relax throughout the day.", "Practice deep breathing or meditation.", "Exercise regularly to reduce stress levels.", "Talk to someone about what's stressing you out."],
+            "context_set": [""],
+            "link": "templates/stress.html"
+        },
+        {
+            "tag": "anxiety",
+            "patterns": ["I feel anxious", "I'm experiencing anxiety", "How can I deal with anxiety?", "Tips for managing anxiety", "What should I do when I feel anxious?"],
+            "responses": ["Practice deep breathing exercises to calm your mind.", "Engage in physical activities like yoga or walking.", "Talk to someone you trust about your feelings.", "Try mindfulness or meditation to stay grounded."],
+            "context_set": [""],
+            "link": "templates/Anixity.html"
+        },
+        {
+            "tag": "depression",
+            "patterns": ["I feel depressed", "I'm feeling low", "How can I deal with depression?", "Tips for managing depression", "What should I do when I feel depressed?"],
+            "responses": ["Reach out to a friend or family member for support.", "Engage in activities you enjoy and that make you feel good.", "Consider seeking help from a mental health professional.", "Practice self-care and be kind to yourself."],
+            "context_set": [""],
+            "link": "templates/depression.html"
+        },
+        {
+            "tag": "addiction_remedy",
+            "patterns": ["How can I cure addiction?", "Is there a way to cure alcohol abuse?", "How to quit smoking?", "How to quit alcohol?", "Can you help me with addictions?", "Treatment for curing addictions?", "Coping with addictions"],
+            "responses": ["Although a professional psychiatrist is needed, you can try dopamine fasts, which involve quitting all pleasing activities for 1-2 days to reduce dopamine release. Build your willpower to overcome withdrawals.", "Seek new, healthy habits to replace your addictions. It's important to consult a professional doctor.", "Start by gradually reducing your addiction and plan a long-term strategy. Professional help can be very beneficial."],
+            "context_set": [""]
+        },
+        {
+            "tag": "addiction_causes",
+            "patterns": ["I am suffering from alcohol consumption", "I smoke a lot", "I drink alcohol", "I smoke cigarettes", "I am suffering from drug abuse", "What causes addiction?", "What causes addiction according to you?"],
+            "responses": ["Addiction is a result of high levels of dopamine release in the brain. Dopamine provides a feeling of happiness, which is why your brain craves addictions.", "The brain releases high levels of dopamine during substance abuse, regulating your mood despite the harmful effects."],
+            "context_set": [""]
+        },
+        {
+            "tag": "options",
+            "patterns": ["How can you help me?", "What can you do?", "What help do you provide?", "How can you be helpful?", "What support is offered?"],
+            "responses": ["I provide assistance with mental health issues, offer tips for better well-being, and help you find the cause and solutions for your mental health concerns.", "I can help you manage your mental health by offering advice and support for various issues."],
+            "context_set": [""]
+        },
+        {
+            "tag": "sleep",
+            "patterns": ["I get disturbed while sleeping", "Unable to sleep early", "Feel sleepless during the day", "Wake up suddenly in the middle of the night", "Negative thoughts while sleeping"],
+            "responses": ["Try reducing your screen time before bed.", "Aim for 7-9 hours of sleep each night.", "Exercise or meditate for 15-30 minutes to calm your mind.", "Avoid afternoon naps and stick to a consistent sleep schedule."],
+            "context_set": [""]
+        },
+        {
+            "tag": "headache_issues",
+            "patterns": ["I cannot concentrate", "I cannot focus", "I have a headache", "Feeling anxious", "My head hurts"],
+            "responses": ["Take short breaks during work.", "Stay hydrated.", "Massage your scalp and ensure you get enough sleep."],
+            "context_set": [""]
+        },
+        {
+            "tag": "self_esteem",
+            "patterns": ["I have low self-esteem", "I feel worthless", "How can I improve my self-esteem?", "Tips for boosting self-esteem", "What should I do if I feel worthless?"],
+            "responses": ["Recognize and celebrate your achievements, no matter how small.", "Surround yourself with positive and supportive people.", "Practice self-care and self-compassion.", "Set realistic goals and work towards achieving them."],
+            "context_set": [""]
+        },
+        {
+            "tag": "exercise_benefits",
+            "patterns": ["What are the benefits of exercise?", "Why is exercise important for mental health?", "Advantages of regular exercise", "How does exercise benefit mental well-being?"],
+            "responses": ["Exercise releases endorphins, which are natural mood lifters.", "It reduces symptoms of anxiety and depression.", "Regular exercise improves sleep quality and cognitive function.", "It boosts self-esteem and promotes a sense of accomplishment."],
+            "context_set": [""]
+        },
+        {
+            "tag": "nutrition",
+            "patterns": ["How does nutrition affect mental health?", "Importance of nutrition for well-being", "Tips for maintaining a healthy diet", "Nutritional advice for mental wellness"],
+            "responses": ["A balanced diet supports brain function and emotional stability.", "Eating nutrient-rich foods can improve mood and energy levels.", "Stay hydrated to enhance cognitive performance and mood regulation.", "Limit intake of processed foods and sugar to maintain mental clarity and stability."],
+            "context_set": [""]
+        },
+        {
+            "tag": "journaling",
+            "patterns": ["How can journaling help with mental health?", "Benefits of keeping a journal", "Tips for effective journaling", "How to start journaling"],
+            "responses": ["Journaling helps clarify thoughts and emotions.", "It promotes self-reflection and self-awareness.", "Writing about gratitude and positive experiences can boost mood.", "Journaling can serve as a tool for problem-solving and stress management."],
+            "context_set": [""]
+        },
+        {
+            "tag": "anger_management",
+            "patterns": ["I have trouble controlling my anger", "How can I manage my anger?", "Tips for dealing with anger issues", "Ways to control my temper"],
+            "responses": ["Practice relaxation techniques such as deep breathing or meditation.", "Take a timeout and step away from the situation to cool down.", "Express your feelings assertively rather than aggressively.", "Seek therapy or counseling to learn healthy coping mechanisms for anger."],
+            "context_set": [""]
+        },
+        {
+            "tag": "coping_with_change",
+            "patterns": ["How can I cope with life changes?", "Strategies for dealing with change", "Tips for adapting to changes", "Ways to navigate through life transitions"],
+            "responses": ["Practice acceptance of what you cannot control.", "Focus on what you can control and take small steps forward.", "Reach out to supportive friends or family members for guidance.", "Seek professional help if needed to navigate through challenging transitions."],
+            "context_set": [""]
+        },
+        {
+            "tag": "importance_of_self_care",
+            "patterns": ["Why is self-care important?", "Benefits of practicing self-care", "How does self-care contribute to mental health?", "The importance of self-care for well-being"],
+            "responses": ["Self-care helps prevent burnout and improves resilience.", "It promotes better physical health and immune function.", "Self-care fosters greater self-awareness and emotional intelligence.", "It enhances overall quality of life and happiness."],
+            "context_set": [""]
+        },
+        {
+            "tag": "mindfulness_benefits",
+            "patterns": ["What are the benefits of mindfulness?", "Why is mindfulness important?", "Advantages of practicing mindfulness", "How can mindfulness help me?"],
+            "responses": ["Mindfulness can reduce stress and anxiety.", "It helps improve focus and attention.", "Practicing mindfulness can lead to better emotional regulation.", "It promotes a greater sense of well-being and overall happiness."],
+            "context_set": [""]
+        },
+        {
+            "tag": "stress_management_techniques",
+            "patterns": ["What techniques can I use to manage stress?", "Effective stress management methods", "How to cope with stress", "Ways to reduce stress levels"],
+            "responses": ["Practice deep breathing exercises.", "Engage in regular physical activity.", "Try progressive muscle relaxation techniques.", "Practice time management and prioritization of tasks."],
+            "context_set": [""]
+        },
+        {
+            "tag": "gratitude",
+            "patterns": ["I want to practice gratitude", "How can I be more grateful?", "Tips for practicing gratitude", "I want to be more thankful"],
+            "responses": ["Start by writing down three things you're grateful for each day.", "Express your appreciation to someone who has made a difference in your life.", "Take a moment to appreciate the small joys in life.", "Reflect on positive experiences and the lessons learned from challenges."],
+            "context_set": [""]
+        },
+        {
+            "tag": "positive_thinking",
+            "patterns": ["How can I think positively?", "Tips for positive thinking", "I want to be more positive", "Help me think positively"],
+            "responses": ["Focus on the good things in your life, no matter how small.", "Challenge negative thoughts and replace them with positive ones.", "Surround yourself with positive and supportive people.", "Practice affirmations and visualize your success."],
+            "context_set": [""]
+        },
+        {
+            "tag": "cheer_up",
+            "patterns": ["I'm feeling down", "I need cheering up", "Can you cheer me up?", "Feeling sad", "I need some positivity"],
+            "responses": ["You're stronger than you think, and you've got this!", "Remember, tough times never last, but tough people do. You're amazing!", "Keep your head up and your heart strong. Better days are ahead.", "You are valued, and you bring so much joy to those around you. Stay positive!"],
+            "context_set": [""]
+        },
+        {
+            "tag": "loneliness",
+            "patterns": ["I feel lonely", "I'm lonely", "How can I deal with loneliness?", "Tips for overcoming loneliness", "What should I do if I feel lonely?"],
+            "responses": ["Reach out to friends or family members.", "Join social groups or clubs with similar interests.", "Volunteer for activities or causes you care about.", "Consider talking to a therapist if loneliness persists."],
+            "context_set": [""]
+        },
+        {
+            "tag": "motivation",
+            "patterns": ["I need motivation", "Help me stay motivated", "I'm feeling unmotivated", "Can you motivate me?", "Tips for staying motivated"],
+            "responses": ["Believe in yourself and all that you are. Know that there is something inside you that is greater than any obstacle.", "Stay positive and focus on your goals. You've got this!", "Remember why you started and keep pushing forward. You're doing amazing!", "Take it one step at a time and celebrate your progress along the way."],
+            "context_set": [""]
+        },
+        {
+            "tag": "creative_expression",
+            "patterns": ["How can creative expression enhance mental well-being?", "Benefits of creativity for mental health", "Ways to foster creativity", "Tips for unleashing creativity"],
+            "responses": ["Creative expression serves as an outlet for emotions and self-expression.", "Engaging in creative activities boosts mood and reduces stress.", "Experiment with art, music, writing, or other forms of expression.", "Allow yourself to play and explore without judgment or expectations."],
+            "context_set": [""]
+        },
+        {
+            "tag": "laughter",
+            "patterns": ["How does laughter benefit mental health?", "Importance of laughter for well-being", "Ways to incorporate more laughter into life", "Tips for finding humor in everyday situations"],
+            "responses": ["Laughter releases endorphins and promotes relaxation.", "It reduces stress hormones and boosts immune function.", "Spend time with people who make you laugh.", "Watch comedy shows, movies, or read humorous books to lighten the mood."],
+            "context_set": [""]
+        },
+        {
+            "tag": "spirituality",
+            "patterns": ["How can spirituality contribute to mental well-being?", "Benefits of spiritual practices", "Ways to nurture spiritual health", "Tips for exploring spirituality"],
+            "responses": ["Spirituality provides a sense of purpose and meaning in life.", "Engaging in spiritual practices can reduce stress and promote resilience.", "Explore meditation, prayer, or mindfulness as spiritual practices.", "Connect with a supportive community or seek guidance from spiritual leaders."],
+            "context_set": [""]
+        },
+        {
+            "tag": "technology_impact_mental_health",
+            "patterns": ["How does technology affect mental health?", "Is too much screen time bad for mental health?"],
+            "responses": ["While technology can offer support and resources, excessive screen time may impact mental health. Finding a balance is key."]
+        },
+        {
+            "tag": "nature_therapy",
+            "patterns": ["I feel disconnected", "How can I benefit from nature?", "Ways to connect with nature", "Nature therapy ideas","I feel depressed"],
+            "responses": ["Take a walk in a nearby park or forest.", "Spend time gardening or tending to plants.", "Plan a picnic or outdoor adventure with friends or family.", "Practice mindfulness in nature by focusing on the sights, sounds, and sensations around you."],
+            "context_set": [""]
+        }
+
+
+    ]
+}
+
+  
